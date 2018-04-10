@@ -1,4 +1,6 @@
-We can see the most popular 100 songs, nearly a third were published by these three record labels: 'INTERSCOPE', 'POLYDOR', 'ATLANTIC'. The most interesting part of the 'company' part is that the whole chart is published by 'Official Charts Company' which belongs to the 'Entertainment Retailers Association' in the UK, however, the top three companies are all belongs to the US (although 'POLYDOR' located in London, it is a subsidiary of American 'INTERSCOPE' ).
+We can see the most popular 100 songs, nearly a third were published by these three record labels: 'INTERSCOPE', 'POLYDOR', 'ATLANTIC'. 
+
+The most interesting part of the 'companys' part is that the whole chart is published by 'Official Charts Company' which belongs to the 'Entertainment Retailers Association' in the UK, however, the top three companies are all belongs to the US (although 'POLYDOR' located in London, it is a subsidiary of American 'INTERSCOPE' ).
 
 The most popular four artists are 'XXXTENTATION','ED SHEERAN','GEORGE EZRA' and 'WEEKND'. Two of them are native singers(ed sheeran and george ezra). And all of them are very young, they all born in or after 1990.
 
